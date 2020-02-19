@@ -1,0 +1,22 @@
+{
+  "name": "svgreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kf-jerryh/svgReader.git"
+  },
+  "author": "Jerryh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kf-jerryh/svgReader/issues"
+  },
+  "homepage": "https://github.com/kf-jerryh/svgReader#readme",
+  "dependencies": {
+    "jimp": "^0.9.3"
+  }
+}
